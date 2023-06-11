@@ -17,11 +17,11 @@
 #pragma compile(Comments, This program is freeware.)
 #pragma compile(ProductName, LeoMoon FontDeploy)
 #pragma compile(FileDescription, LeoMoon FontDeploy)
-#pragma compile(FileVersion, 1.2.2.0)
+#pragma compile(FileVersion, 1.2.3.0)
 #pragma compile(LegalCopyright, Amin Babaeipanah)
 #pragma compile(CompanyName, LeoMoon Studios)
 #pragma compile(LegalTrademarks, LeoMoon Studios)
-#pragma compile(ProductVersion, 1.2.2.0)
+#pragma compile(ProductVersion, 1.2.3.0)
 
 AutoItSetOption("ExpandEnvStrings", 1)
 
@@ -61,7 +61,7 @@ EndIf
 
 Func _copyright()
     ConsoleWrite(''&@LF)
-    ConsoleWrite('                 LeoMoon FontDeploy 1.2.2'&@LF)
+    ConsoleWrite('                 LeoMoon FontDeploy 1.2.3'&@LF)
     ConsoleWrite('          (c) LeoMoon Studios - www.leomoon.com'&@LF)
     ConsoleWrite(''&@LF)
 EndFunc
